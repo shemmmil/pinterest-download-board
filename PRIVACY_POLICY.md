@@ -131,18 +131,11 @@ Since no personal data is collected, there is no personal data to modify or expo
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date.
 
-## Open Source
-
-The Extension is open source. You can review the source code to verify our privacy claims:
-
-GitHub Repository: [Add your GitHub repository URL here if available]
-
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
 - **Email:** shemmmil1996@gmail.com
-- **GitHub Issues:** [Add your GitHub issues URL here if available]
 
 ## Compliance
 
